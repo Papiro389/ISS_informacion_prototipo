@@ -1,11 +1,7 @@
-# Sample Snack app
+Hola Mundo, soy Papiro
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este codigo es el primero que subo a esta plataforma, lo pueden dar una checada y revisarlo o tambien pueden modificarlo.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+este es un snack que hice en React Native que es para mostrar los datos de la ISS pero al final no lo pude terminar y no creo que pueda seguir ya que tengo mas trabajos en js. .java y mas lenguajes de programación que hacer para fines personales o universitarios.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+que tengan bonito día ;l
